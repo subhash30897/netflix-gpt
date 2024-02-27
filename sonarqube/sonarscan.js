@@ -3,7 +3,8 @@ const scanner = require("sonarqube-scanner");
 scanner(
   {
     serverUrl: "http://localhost:9000",
-    token: "e838dd064de0e78c5c39bcbb23aeb758353944ca",
+    token:
+      "sqp_a527b26faa82960187a72c41cfce2293060a2335e838dd064de0e78c5c39bcbb23aeb758353944ca",
     options: {
       "sonar.projectName": "sonarqube-netflixgpt",
       "sonar.projectDescription": "Here I can add a description of my project",

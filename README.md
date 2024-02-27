@@ -44,3 +44,4 @@ configured tailwind css
   firebase deploy to deploy the build.
   Create Signup user.
   If user is successfully signed up, firebase will give auth token.
+  sonarqube-token -> sqp_a527b26faa82960187a72c41cfce2293060a2335
